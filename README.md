@@ -10,21 +10,22 @@ This project was about making an automatic laser gun with a servomotor, a Keyes 
 using Arduino Uno Microcontroller.
 
 ## Dynamics of Machinery
-Implementation of 6-bar Rock Crusher Mechanism and Cam Follower Mechanism for a Fuel Valve in a Car Engine using MATLAB & Simulink
+Implementation of 6-bar rock crusher and cam follower mechanisms for a fuel valve in a car engine using MATLAB & Simulink.
 
-## Fundamentals of Automatic Controller Design - Ball and Beam
+## Fundamentals of Automatic Controller Design - Ball and Beam Project
 Controlling a ball-and-beam model using PID controllers.
 
-## Fundamentals of Automatic Controller Design - Course Codes 
-Useful implementations of controller in MATLAB
+## Fundamentals of Automatic Controller Design - Codes 
+Useful implementations of controller desgin techniques in MATLAB.
 
 ## Introduction to Robotics 
-Model of SCARA and PUMA Robots and Implementation of Trajectory Design, Path Planning, Obstacle Avoidance, Road Mapping, and Control in MATLAB & Simulink
+Model of SCARA and PUMA robots and implementation of trajectory design, path planning, obstacle avoidance, road mapping, and control in MATLAB & Simulink.
+
+## Programming C - Codes
+Examples, exercises, and project of the C programming course.
 
 ## SOLIDWORKS CAD Models
-Useful CAD Models built by SOLIDWORKS
+Useful CAD Models built by SOLIDWORKS.
 
 ## Keywords
-Sharif University of Technology, SUT, Applied Electronics, Electronics, Dynamics, Machinery, Dynamics of Machinery, Mechanism, 6-bar, Rock Crusher, Cam Follower, 
-Fundamentals of Automatic Controller Design, Control, Introduction to Robotics, Robotics, SCARA, PUMA, Trajectory, Trajectory Design, Path, Planning, Path Planning, 
-Road Mapping, CAD, Arduino, MATLAB, Simulink, MATLAB & Simulink, SOLIDWORKS
+Sharif University of Technology, SUT, Applied Electronics, Electronics, Dynamics of Machinery, Dynamics, Machinery, Mechanism, 6-bar, Rock Crusher, Cam Follower, Fundamentals of Automatic Controller Design, Control, PID, Introduction to Robotics, Robotics, SCARA, PUMA, Trajectory Design, Trajectory, Path Planning, Path, Planning, Obstacle Avoidance, Obstacle, Road Mapping, Mapping, Programming, CAD, Arduino, MATLAB, Simulink, MATLAB & Simulink, C, SOLIDWORKS
